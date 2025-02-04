@@ -1,2 +1,7 @@
-# Audio-Narrative
- All project materials for the audio narrative project 
+
+Summary 
+This is the summary of my project
+
+Credits
+*Song title 1 by artists (link)
+*Sound 
