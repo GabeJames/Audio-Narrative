@@ -8,3 +8,4 @@ Songs:
 Sound:
 * skating rink outdoor teenagers play hockey bang boards1 by Kyles (https://freesound.org/people/kyles/sounds/450742/)
 * extended Hockey arena goal horn applause by SEF7 (https://freesound.org/people/SEF7/sounds/706596/)
+* Slapshot Metal Hit0 by pthj412 (https://freesound.org/people/pthj412/sounds/224007/)
