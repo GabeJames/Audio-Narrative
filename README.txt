@@ -6,11 +6,11 @@ Summary:
 
 Credits
 Songs:
-* Little Triumph by Aldus-X (https://freemusicarchive.org/music/aldus-x/giant/little-triumph/)
+* Little Triumph by Aldus-X, CC BY-NC(https://freemusicarchive.org/music/aldus-x/giant/little-triumph/)
 Sound:
-* skating rink outdoor teenagers play hockey bang boards1 by Kyles (https://freesound.org/people/kyles/sounds/450742/)
-* extended Hockey arena goal horn applause by SEF7 (https://freesound.org/people/SEF7/sounds/706596/)
-* Slapshot Metal Hit0 by pthj412 (https://freesound.org/people/pthj412/sounds/224007/)
+* skating rink outdoor teenagers play hockey bang boards1 by Kyles, CC 0 (https://freesound.org/people/kyles/sounds/450742/)
+* extended Hockey arena goal horn applause by SEF7, CC 0 (https://freesound.org/people/SEF7/sounds/706596/)
+* Slapshot Metal Hit0 by pthj412, Attribution 3 (https://freesound.org/people/pthj412/sounds/224007/)
 Sources:
 * "Mario Lemieux, Value Investor", Forbes Magazine, 06/06/2013
 * "Lemieux Is Trying to Save the Bankrupt Penguins", by Joe Lapointe, New York Times, 03/14/1999
