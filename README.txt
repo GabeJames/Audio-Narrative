@@ -7,7 +7,7 @@ Summary:
 Credits
 Songs:
 * "Little Triumph" by Aldus-X, Licensed under CC BY-NC(https://freemusicarchive.org/music/aldus-x/giant/little-triumph/)
-* "Piano (solo, somber, soundtrack)" by Independent Music Licensing Collective (IMLC) Licensed under CC BY-NC-ND 4.0 (https://freemusicarchive.org/music/independent-music-licensing-collective-imlc/soularflair-singles-1/piano-solo-somber-soundtrack/)
+* "Piano (solo, somber, soundtrack)" by Independent Music Licensing Collective (IMLC), Licensed under CC BY-NC-ND 4.0 (https://freemusicarchive.org/music/independent-music-licensing-collective-imlc/soularflair-singles-1/piano-solo-somber-soundtrack/)
 * "Triumph" by Ketsa, Licensed under CC BY-NC-ND 4.0 (https://freemusicarchive.org/music/Ketsa/the-new-world/triumph/)
 Sound:
 * "skating rink outdoor teenagers play hockey bang boards1" by Kyles, Licensed under CC 0 (https://freesound.org/people/kyles/sounds/450742/)
