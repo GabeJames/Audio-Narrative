@@ -6,11 +6,18 @@ Summary:
 
 Credits
 Songs:
-* Little Triumph by Aldus-X, CC BY-NC(https://freemusicarchive.org/music/aldus-x/giant/little-triumph/)
+* "Little Triumph" by Aldus-X, Licensed under CC BY-NC(https://freemusicarchive.org/music/aldus-x/giant/little-triumph/)
+* "Piano (solo, somber, soundtrack)" by Independent Music Licensing Collective (IMLC) Licensed under CC BY-NC-ND 4.0 (https://freemusicarchive.org/music/independent-music-licensing-collective-imlc/soularflair-singles-1/piano-solo-somber-soundtrack/)
+* "Triumph" by Ketsa, Licensed under CC BY-NC-ND 4.0 (https://freemusicarchive.org/music/Ketsa/the-new-world/triumph/)
 Sound:
-* skating rink outdoor teenagers play hockey bang boards1 by Kyles, CC 0 (https://freesound.org/people/kyles/sounds/450742/)
-* extended Hockey arena goal horn applause by SEF7, CC 0 (https://freesound.org/people/SEF7/sounds/706596/)
-* Slapshot Metal Hit0 by pthj412, Attribution 3 (https://freesound.org/people/pthj412/sounds/224007/)
+* "skating rink outdoor teenagers play hockey bang boards1" by Kyles, Licensed under CC 0 (https://freesound.org/people/kyles/sounds/450742/)
+* "extended Hockey arena goal horn applause" by SEF7, Licensed under CC 0 (https://freesound.org/people/SEF7/sounds/706596/)
+* "Slapshot Metal Hit0" by pthj412, Licensed under Attribution 3.0 (https://freesound.org/people/pthj412/sounds/224007/)
+* "construction jackhammer 75m" by kyles, Licensed under CC 0 (https://freesound.org/people/kyles/sounds/637392/) 
+* "cha ching" by creek23, Licensed under Attribution Non-commercial 4.0 (https://freesound.org/people/creek23/sounds/75235/)
+* "bm-PittPensCele" by cmusounddesign, Licensed under Attribution 4.0 (https://freesound.org/people/cmusounddesign/sounds/71945/)
+* "writing_pen" by rui_aires, Licensed under CC 0 (https://freesound.org/people/rui_aires/sounds/365893/)
+* "HAMMER_1" by pablodavilla, Licensed under CC 0 (https://freesound.org/people/pablodavilla/sounds/592112/)
 Sources:
 * "Mario Lemieux, Value Investor", Forbes Magazine, 06/06/2013
 * "Lemieux Is Trying to Save the Bankrupt Penguins", by Joe Lapointe, New York Times, 03/14/1999
